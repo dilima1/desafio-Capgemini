@@ -10,4 +10,27 @@ Para ter acesso e rodar a aplicação, pode iniciar atraves do codigo abaixo:
 
 Apos baixado na maquina devera navegar ate a pasta **SRC** e la estara as Questões 1 e 2, dentro da pasta **SOURCES** estara a Questão 3.
 
+Abaixo esta um link de redirecionamento para as questões:
+
+
+~~~Questão 1
+Questão 1
+~~~
+[Clique Aqui](https://github.com/dilima1/desafio-Capgemini/blob/main/src/Quest1.java)
+
+
+~~~Questão 2 
+Questão 2
+~~~
+[Clique Aqui](https://github.com/dilima1/desafio-Capgemini/blob/main/src/Quest2.java)
+
+
+~~~Questão 3
+Questão 3
+~~~
+[Clique Aqui](https://github.com/dilima1/desafio-Capgemini/blob/main/src/sources/Anagrama.java)
+
+
+
+
 
